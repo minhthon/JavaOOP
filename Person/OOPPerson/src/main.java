@@ -85,6 +85,7 @@ public class main {
         System.out.print("Please type name: ");
         String name = scanner.nextLine();
 
+        
         System.out.print("Please type age: ");
         int age = scanner.nextInt();
 
